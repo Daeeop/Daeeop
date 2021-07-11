@@ -21,5 +21,7 @@
 <p align="center">
 <a href = "https://www.notion.so/DAEEOP-KIM-0dd9bbc4b0dc47e4b578f34eca7a922a">
 <img src="https://img.shields.io/badge/Notion-007396?style=for-the-badge&logo=notion&logoColor=yellow"> </a>
+ <a href = "rlaeodjq681@gmail.com">
+<img src="https://img.shields.io/badge/GMAIL-F80000?style=for-the-badge&logo=gmail&logoColor=red"> </a> 
 
 
