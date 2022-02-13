@@ -1,4 +1,4 @@
-<div align=center><h3>👋 Hi, I’m @daeeop</h3></div>
+<div align=center><h3>👋 Hello, I'M DAE EOP KIM</h3></div>
 
 <h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
 <p align ="center" style = "font-size:15px;"> At least once learned. </p>
